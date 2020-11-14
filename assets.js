@@ -9631,7 +9631,7 @@ function Filter(list) {
     
     // Filter input
     var form = $('<form>').attr({ 'action':'#' });
-    var input = $('<input>').attr({ 'type':'text', 'placeholder':'Filter by keyword' });
+    var input = $('<input>').attr({ 'type':'text', 'placeholder':'Buscar' });
     $(form).append(input).prependTo(this.el);
     
     // Filter function
@@ -9696,14 +9696,14 @@ $('#sidebar a').each(function () {
     });
 });
 
-// Hide all/Show all links
-var show = $('<a class=\'control show\'>Show all</a>');
+// Ocultar todo/Expandir todo links
+var show = $('<a class=\'control show\'>Expandir todo</a>');
 show.click(function () {
   $('#content article:not(".active") > a').trigger('click');    
 });
 $('#content').prepend(show);
 
-var hide = $('<a class=\'control hide\'>Hide all</a>');
+var hide = $('<a class=\'control hide\'>Ocultar todo</a>');
 hide.click(function () {
   $('#content article.active > a').trigger('click');    
 });

@@ -1,7 +1,8 @@
 ---
-category: Siembra
-url_path: '/siembras/:id'
-title: 'Detalle de siembra'
+category: Cultivos
+url_path: '/cultivos/:id'
+title: 'Ver cultivo'
+type: 'GET'
 
 layout: null
 ---

@@ -1,7 +1,8 @@
 ---
-category: Cultivos
-url_path: '/cultivos'
-title: 'Agregar cultivo'
+category: Familia de cultivos
+url_path: '/familias/:id'
+title: 'Borrar familia'
+type: 'DELETE'
 
 layout: null
 ---

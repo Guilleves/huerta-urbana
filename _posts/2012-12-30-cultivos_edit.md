@@ -2,6 +2,7 @@
 category: Cultivos
 url_path: '/cultivos/:id'
 title: 'Editar cultivo'
+type: 'PUT'
 
 layout: null
 ---

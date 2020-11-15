@@ -1,7 +1,8 @@
 ---
-category: Cosecha
-url_path: '/cosechas'
-title: 'Registrar cosecha'
+category: Cultivos
+url_path: '/cultivos/:id'
+title: 'Borrar cultivo'
+type: 'DELETE'
 
 layout: null
 ---

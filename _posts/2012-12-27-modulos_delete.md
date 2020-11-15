@@ -1,7 +1,8 @@
 ---
-category: Reportes
-url_path: '/cosechas/:id'
-title: 'Buscar reporte'
+category: Módulos
+url_path: '/modulos/:id'
+title: 'Borrar módulo'
+type: 'DELETE'
 
 layout: null
 ---

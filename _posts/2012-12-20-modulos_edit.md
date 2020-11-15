@@ -2,6 +2,7 @@
 category: Módulos
 url_path: '/modulos/:id'
 title: 'Editar módulo'
+type: 'PUT'
 
 layout: null
 ---

@@ -2,6 +2,7 @@
 category: Familia de cultivos
 url_path: '/familias/:id'
 title: 'Editar familia'
+type: 'PUT'
 
 layout: null
 ---

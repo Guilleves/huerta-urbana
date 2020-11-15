@@ -2,6 +2,7 @@
 category: Familia de cultivos
 url_path: '/familias'
 title: 'Agregar familia'
+type: 'POST'
 
 layout: null
 ---

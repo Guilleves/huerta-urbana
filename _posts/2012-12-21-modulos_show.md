@@ -2,6 +2,7 @@
 category: Módulos
 url_path: '/modulos/:id'
 title: 'Ver módulo'
+type: 'GET'
 
 layout: null
 ---

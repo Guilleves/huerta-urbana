@@ -2,6 +2,7 @@
 category: Módulos
 url_path: '/modulos'
 title: 'Agregar módulo'
+type: 'POST'
 
 layout: null
 ---
